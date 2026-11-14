@@ -1,0 +1,5 @@
+{
+  "name": "marin-theme",
+  "owner": { "name": "banatic" },
+  "plugins": [{ "name": "marin", "source": "./" }]
+}
